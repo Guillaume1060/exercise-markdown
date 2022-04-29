@@ -18,7 +18,7 @@
  
  
  
-![Tux, the Linux mascot](/home/guillaume/gitub/personal-projects/exercise-markdown/tux.avtf "LinuxLogo")
+![Tux, the Linux mascot](/home/guillaume/gitub/personal-projects/exercise-markdown/tux.jpg "LinuxLogo")
 
 
 
