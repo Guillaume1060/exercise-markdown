@@ -18,7 +18,7 @@
  
  
  
-![Tux, the Linux mascot](/gitub/personal-projects/exercise-markdown/tux.jpg "LinuxLogo")
+![Tux, the Linux mascot](https://github.com/Guillaume1060/exercise-markdown/blob/main/tux.jpg "LinuxLogo")
 
 
 
