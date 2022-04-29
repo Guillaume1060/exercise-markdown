@@ -18,13 +18,11 @@
  
  
  
-![Tux, the Linux mascot](/home/guillaume/gitub/personal-projects/exercise-markdown/tux.jpg "LinuxLogo")
+![Tux, the Linux mascot](/gitub/personal-projects/exercise-markdown/tux.jpg "LinuxLogo")
 
 
 
 
-
- javascript:alert("Hello World!")
  
  
  [link]
