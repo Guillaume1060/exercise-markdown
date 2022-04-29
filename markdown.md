@@ -1,6 +1,31 @@
- # Test Level 1
+ # Mon premier Markdown
 
- # Heading level 1
+- HTML
+- CSS
+- javascrpit
 
+1. outils
+2. langages
+3. projet
+4. test
+ 
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
+ 
+ 
+ 
+![Tux, the Linux mascot](/home/guillaume/gitub/personal-projects/exercise-markdown/tux.avtf "LinuxLogo")
+
+
+
+
+
+ javascript:alert("Hello World!")
+ 
+ 
  [link]
  (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
